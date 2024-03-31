@@ -1,0 +1,23 @@
+.hero-title {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 3rem;
+  margin-bottom: 2rem;
+}
+
+/* left pakai 51 persen ya */
+.owl-next,
+.owl-prev {
+  background-color: #5cb85f !important; /* Ganti warna sesuai keinginan Anda */
+  color: white; /* Ganti warna teks sesuai keinginan Anda */
+  width: 30px !important;
+  height: 30px !important;
+  border-radius: 50% !important;
+  cursor: pointer;
+  font-weight: bolder !important;
+  border: none !important;
+}
+.navbar {
+  display: flex !important;
+  justify-content: space-between !important ;
+}
